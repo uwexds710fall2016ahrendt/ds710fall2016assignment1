@@ -1,8 +1,7 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 Lucas Newkirk
 I am interested in data science because I want to further my career as a data analyst and be able to give deeper insights to my company.
-I have been learning programming for 6 months now so I'm still relatively new. I've taken courses for R and Python on Coursera and Udemy. I don't code for my job 
-but I'm looking forward to bringing it to the work place and bettering some of our processes.
+I have been learning programming for 6 months now so I'm still relatively new. I've taken courses for R and Python on Coursera and Udemy. I don't code for my job but I'm looking forward to bringing it to the work place and bettering some of our processes.
 I have taken the required statistics homework for college, which are elementary and intermediate stats. I do basic statistics for my job but I'd like to take things to another level.
 I've taken intro courses to both languages.
 I hope to learn how to apply new coding techniques to my job and just become a more efficient coder all around.
