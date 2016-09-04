@@ -1,8 +1,27 @@
-Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+
+Shawn Peters
+
 2. Why are you interested in Data Science?
+
+I see it as a major opportunity for future growth in the tech industry and want to be involved in that.  Additionally, we do not have a data scientist or any formal data collection/analysis initiative at JAMF Software and as such we are unable to make the most informed decisions possible.  
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+
+I am the Automation and Tools team lead in the Quality Assurance department at JAMF.  I took Intro to Object Oriented Programming last fall at UWEC, otherwise I do not have formal training.  I have acquired basic programming experience outside of the classroom including developing a test case management software, a couple of apps on the iOS App Store, automated scripting of workflows using Ruby and Bash, and freelance website development.  
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+
+I took Econometrics in college, otherwise I do not have any other experience with statistics.
+
 5.  Do you have other experience with R or Python?
+
+The first time I used R was in DS 700 which I took over the summer, and I have not written any Python but I have read and executed some scripts at work.
+
 6.  What do you hope to learn in this class?
+
+Smart use of Python and R to perform the tasks necessary to complete the class but also have a solid foundation to build off of in the future.  
+
 7.  Is there anything else you would like to share with us?
+
+I graduated in from UWEC with a BS in Mathematics in 2011.  I'm excited to have UWEC staff teaching this course.
