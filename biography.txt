@@ -1,8 +1,14 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
+1. What is your name? 
+Ben Clavette
+2. Why are you interested in Data Science? 
+Data is being created at such an exponetial rate currently and impacts so many area of our lives, I see such opportunity for those who are able to work with it effeciently and make informed decisions based on actual, possibly real time data.  I believe I can use the skill set in my current career in the oil and gas business as a small oil and gas royalty buyer but also believe it the skill set will open many doors should I decide I want to pursue something else. For example, my wife is currently in the final year of her Physician Assistant program and healthcare is another data intensive field where I believe demand for data scientists will continue to grow.  
+3. Tell us a little bit about your programming experience.  
+What programming courses have you taken?  Do you use programming on the job, and if so, how?  Formally, I have only taken two programming courses, both this past summer through UWM, an intro programming course written in java and a database course working with MySql.  For the past several years on the job, I have worked with a programmer while we developed some internal accounting software and it helped me quite a bit in the database course as I watched him work on a lot of relationship models and write a lot of SQL.   I have not done much programming at work other than him showing me things.  We are planning on using what i am learning in this course for our business where applicable.  
+4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how? I took stats in undergrad ~10 years ago and recently studied some statitics for the CFA level one exam I passed this past June.  On the job, we are working towards better metrics tracking but nothing terribly complicated at the moment.  
+5.  Do you have other experience with R or Python? 
+Other than some online videos/self guided training tutorials, no.
 6.  What do you hope to learn in this class?
+I hope to gain a working understanding of both R and python and really understand their power. I am still green when it comes to programming and don't really know what is possible in one language or another.  My partners backgroud is in relational data and I believe that what I learn here will allow me to ask better questions of the data he is able to aggreate for our business. 
 7.  Is there anything else you would like to share with us?
+I'm excited to start the class and am looking forward to the opportunity. 
