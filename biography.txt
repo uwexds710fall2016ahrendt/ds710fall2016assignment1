@@ -1,8 +1,16 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+Spencer Swartz
 2. Why are you interested in Data Science?
+Data Science is a natural progression for my, as I am currently working as a Data Analyst in my current roll. through this roll I have realized the potential of data science which was the innitial spark for me. since then I have continued to enjoy the topics presented during my progression of this data science program.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I have some programming experiance mostly within Python although I have also taken a course on C++. In addtion to those to I have self taught myself enough R to make myself dagerous as I troll stack overflow for my common problems. :)
+I do a little programming at work although it is not my primary role, currently I am working on a project that brings down data from an api at openstates.com and then places the results in a mysql database, this is being implimented in python.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+again I do a little bit of statistics at work as it is needed, nothing to deep in the statistics world although I have taken 2 or 3 classes on it.
 5.  Do you have other experience with R or Python?
+All of my R experiance has been within this data science program or by playing around with it on my spaire time. Otherwise my python experiance is as shown above.
 6.  What do you hope to learn in this class?
+I hope to become more proficiant in R as I feel it is a powerfull statistics tool.
 7.  Is there anything else you would like to share with us?
+I am excited to get this semester started as it has been a while since I've taken a programing class!
