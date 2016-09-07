@@ -1,8 +1,37 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+     Arun Prakash Janakiraman (easy way to pronouce will be Arune)
 2. Why are you interested in Data Science?
+     My interest in Data Science stems my interest in Simulation Technologies. 
+     I work as a Mechanical Engineer specializing in Computational Fluid Dynamics. 
+     CFD is a physics based prediction methodology used for understanding real world behavior and optimization of devices involving fluid flow,
+     chemical reactions, heat transfer etc. (example Thrust prediction and shape optimization of a bell (de Laval) nozzle used  in a Rocket) 
+     I want to broaden my skills in statistics based modeling, 
+     learn more about unstructured data (dealing with structured numeric data currently) and hopefully at some point in the future about Machine learning algorithms
+     and its applications to real world problems. Optimization is another field I want to get into. I have used various optimization techniques in the past but 
+     never had the time to delve deep into the math or the algorithms.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+      My experience in coding mainly comes from developing code to solve CFD problems. 
+      The equations of fluid flow are nonlinear PDEs and are very complex. There is a whole software industry around creating and selling software which can be used for solving CFD problems. (www.ansys.com). 
+      Aside from using the software out of box, there is scope for a lot of customization of the software (for example in house developed models). 
+      For the CFD software we use, C is the programming language for customization so I am comfortable with most of the syntax used for computation
+      (not network programming, just structures, pointers, functions etc.). 
+      In addition I also learnt C++ during my undergrad days in College. I know some object oriented programming in C++ but haven’t used it extensively.
+      More recently (past 3 years) I have been developing tools in Excel for performing Engineering calculations (Excel is available to all the engineers in my company) related to Fluid flow, 
+      heat transfer. Most of the tools I create have VBA (Visual Basic for Application) code running in the background to do the number crunching. 
+      I extensively use VBA Class Abstraction to create portable classes & objects derived from those classes for solving the mathematical equation which arise from the problem statement.
+      This usually involves solving complex algebraic or differential equations which otherwise don’t have closed form solutions (coupled nonlinear equations solved using Newton’s method for example). 
+      To date I have created around 50 different tools which performs calculations related to a particular product or physics. System level modeling where multiple systems interact with each other is 
+      something I will working towards in the near future and Class abstraction greatly helps with that.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+      My statistics experience has been a hit and miss actually. 
+      I mainly use regression plots to describe strong or weak correlation between experimental results and the theoretical model prediction and what the model uncertainty (+/- of the test results). 
+      Minitab is the software used for that purpose. I also deal with probability distribution functions (Log Normal mainly) to predict performance of a device (Efficiency) usually by integrating across the curve. 
+      Have used some optimization techniques in the past. Have used One Way ANOVA and normality tests. I have taken 2 courses in Probability and Statistics in my undergrad days but wouldn’t consider myself well versed in it. 
+      Probably need to brush up on the concepts again. 
 5.  Do you have other experience with R or Python?
+      Very new to R , but have learned and used Python in the past. Need to brush up on Python syntax
 6.  What do you hope to learn in this class?
+      Want to learn R and apply it for stat problems. Become well versed in Python as I have a few work related projects which require Python coding
 7.  Is there anything else you would like to share with us?
+       Never used Github, need to figure out how to use it soon here.
