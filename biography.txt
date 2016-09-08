@@ -1,8 +1,15 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+	Christopher Jersett
 2. Why are you interested in Data Science?
+	My previous masters program in Library and Information Science touched upon data science, and I became very aware that the skills and knowledge in data science far more interest me than library science.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+	I have never been paid to use any programming skills. In highschool I took two courses of PASCAL (that old-school learn-to-program language) and I have been an autodidact with C++ over the past few years, working on my own projects. I am not currently confident enough to put it on a resume, though.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+	My last statistics course was in my early undergrad, years ago. Apart from very basic statistics and data visualization (simple charts and graphs) I have never used advanced statistics on a job.
 5.  Do you have other experience with R or Python?
+	I briefly studied Python a year ago when I considered learning it for a private project. One of my brothers is a physical chemist who has used R many times and he has taught me a few things.
 6.  What do you hope to learn in this class?
+	I hope to learn solid skills in the areas data science covers. I probably have the most weak background in this area out of my peers, but I need the hard skills. Much of my formal education has been simply soft skills, sadly, and that is one of the reason I transferred to this masters program.
 7.  Is there anything else you would like to share with us?
+	I will struggle, but I am determined. I just wish I had a day job that used any of this more often.
