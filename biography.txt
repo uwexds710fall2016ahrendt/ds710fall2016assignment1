@@ -1,8 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. What is your name?  Bailey Kathan
+2. Why are you interested in Data Science?  I like statistics, algorithms and curious links between subjects - it is like a puzzle!
+3. Tell us a little bit about your programming experience.  What programming courses have you taken?  I have taken Introduction to Computer Programming and I learned Java and I also took Database Information Retrieval Systems where I learned SQL.  Do you use programming on the job, and if so, how?  On the job, I have learned HTML and CSS because I offered to manage and update a department website.
+4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  I have taken Introduction to Statistics, Social Research I and Social Research II.  Do you use statistics on the job, and if so, how?  Yes I do, as a Project Coordinator I have many metrics that I keep track of for the workstreams within the project.  They need to know how well they are doing on the timeline of the project, and that involves many equations within MS Excel and many graphs and charts to create a visual for them to see and understand.
+5.  Do you have other experience with R or Python?  I ordered a book to teach myself Python a couple of years ago but I have not gotten all of the way through it yet.  Other than that, no other experience.
+6.  What do you hope to learn in this class?  When to use R or Python, the different ways to utilize each language for any future endeavors, understanding what I can do with all of the data that I will be working with.
+7.  Is there anything else you would like to share with us?  I am very excited to learn these new code languages!
