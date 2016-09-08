@@ -1,8 +1,15 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+	Dan Sowka
 2. Why are you interested in Data Science?
+	Data is being generated all around us, in and outside of computer systems. The idea that we can gather and interpret the patterns that occur in our world in order to glean insight and push humanity forward is why I am here.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+	I completed the CIS Bachelor's of Science program at UWSP and took numerous object oriented, web-based and data analysis courses during that program. I work as a Data Analyst at Sentry Insurance maintaining a number of the company's analytical data stores.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+	I have taken a basic statistics class during my program at UWSP, Elementary Statistics. I use basic statistics principles when working with data sets in my job as a Data Analyst.
 5.  Do you have other experience with R or Python?
+	I have no previous experience with R or Python.
 6.  What do you hope to learn in this class?
+	How R and Python can be used to analyze datasets to glean useful insights.
 7.  Is there anything else you would like to share with us?
+	I am excited to see what new capabilities this program can instill in me.
