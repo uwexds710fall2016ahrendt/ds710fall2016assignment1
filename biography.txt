@@ -1,8 +1,15 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
+1. What is your name? 
+My name is Maggie Schweihs.
 2. Why are you interested in Data Science?
+I am interested in Data Science for many reasons. On a personal level, I have always enjoyed math, computers and journalism and Data Science is a natural fit for all three. Professionally, I am interested in finding patterns in data that help humans understand the big picture. I am currently installing an ELK stack to analyze the system logs of the servers I manage. My intention is to clean the logs and visualize them with Kibana (K in ELK) to better manage our systems. I work as a systems administrator and am interested in the application of Data Science to computer systems and cyber security, among many other things. 
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I have taken three intro level programming classes: C++, Java and Web Development (HTML, CSS). At work, I write scripts, not programs, using BASH, Korn Shell, powershelgl, Perl (rarely). I have occasionally had the misfortune to translate COBOL (very rarely).
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I have taken a decent amount of statistics: Elementary Statistics (not calc based), College Statistics (Calc II based), and Advanced Statistics (Calc based, Mini-Tab used).
 5.  Do you have other experience with R or Python?
+I have been reading and experimenting with R and Python but I have no real experience. We used R a bit in DS700, which I took Spring2016.
 6.  What do you hope to learn in this class?
+I hope to learn how and when to use R and Python. I am excited to be using GitHub, Jupiter Notebooks, and the Anaconda distribution. I hope to learn about how to integrate all of these software environments and how to keep them up to date and organized. I also hope to learn some best practices related to using notebooks and github.
 7.  Is there anything else you would like to share with us?
+I am really excited for this class! I am hoping to attend some Big Data Madison (or other Data Science) Meetups this semester and would enjoy meeting some classmates!
