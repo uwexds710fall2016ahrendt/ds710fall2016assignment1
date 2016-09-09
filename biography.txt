@@ -1,8 +1,21 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+  Anmarie Flamingo
+
 2. Why are you interested in Data Science?
+  Data Science directly ties to field of work, Product Support Analysis. Large sets of data about a defense vehicle are collected and analyzed to optimize the maintenance procedures.
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I am an self-taught, ameture programmer in VBA. I learned through building MS Access databases and building user forms over the last 5-6 years. I continue to use VBA when automating data processes.
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+My undergraduate degree is in Mathematics, so I took several statistics classes. I also use basic statistics on the job while doing analysis of data sets, such as cycle times, and predicting future capacity.
+
 5.  Do you have other experience with R or Python?
+Not yet!
+
 6.  What do you hope to learn in this class?
+I am excited to have my first formal education in programming! I hope to learn programming best practices and fill any holes I have in my foundational knowledge.
+
 7.  Is there anything else you would like to share with us?
+Not at this time.
