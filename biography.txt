@@ -1,8 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+Aparna Philkana
+I want to explore data to derive facts in a systematic way
+I am a 11+ years of Data analytics professional with bachelor degree in Computer science. I have good understanding and working knowledge with C, C++, Core Java and scripting languages like PHP and java script. Also worked on various ETL&BI tools like Informatica, Abinitio, BOXi and Talend. Currently i am working on a Big data analytics project using Hive, HBase and Talend with MapR distribution.
+I Learned a bit about probability and statistics during my bachelors degree.I don't have any working/real time knowledge with statistics.
+Nope
+want to explore as much as possible with R and Python
+nothing much.. so Far!!
