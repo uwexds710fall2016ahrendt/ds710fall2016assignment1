@@ -1,8 +1,19 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+	Jennifer Salvo
 2. Why are you interested in Data Science?
+	I currently work as a Business Intelligence developer and focus primarily on data warehousing and historical reporting.  I am interested in Data Science because
+	I'd like to gain an understanding of data mining and predictive analytics and hopefully utilize these skills in my current role.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+	I have a Bachelor's degree in Computer Science and have taken numerous programming courses.  I program on the job using primarily T-SQL, C#, and Business Intelligence
+	languages such as MDX and DAX.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+	I took several statistics courses as part of my undergraduate course work.  The courses included an introductory statistics class for engineers and probability.
+	I do not use statistics in my current work.
 5.  Do you have other experience with R or Python?
+	I completed Data Science 700, so I have some basic experience with R.  I have not worked with Python.
 6.  What do you hope to learn in this class?
+	I hope to gain an understanding of R and Python's strengths and weaknesses and use cases where each language may be applied.  I am hoping
+	that upon completing this course I will have the skills to make use of these languages in my current job when appropriate.
 7.  Is there anything else you would like to share with us?
+	Nothing specific at this time.
