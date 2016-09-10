@@ -1,8 +1,17 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
+1. What is your name?  
+	Michelle Mauck
+2. Why are you interested in Data Science?  
+	I have always found that the use of data to analyze a problem or find patterns interesting and helpful in decision making.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+	I have taken programming course in Fortran, Pascal, C++, SQL, PL/SQL.  I've have had a light exposure to R.  I have use PL/SQL in a previous job a a lead programmer to
+	create/write an ERP system for a manufacturing company using Oracle Forms & Reports in PL/SQL.  My current position deal more with managing, cleaning, and transforming data.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+	My first statistics course was a Business Analytics and Statistics Graduate course at UWM.  In my current position, I manage the data warehouse and visual analytics tools to
+	present statistical data to both our adminstrative team and our teachers.
 5.  Do you have other experience with R or Python?
+	We were presented with R options in my Statistics course but focused on using JMP for statistical anaylsis. I have not used Python at all.
 6.  What do you hope to learn in this class?
+	I hope to expand my programming knowledge as it related to data and statistics.  I hope that I can apply the knowledge gained in this course to project in my current
+	job and as opportunities for growth in future positions / jobs.  
 7.  Is there anything else you would like to share with us?
