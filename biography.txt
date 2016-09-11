@@ -1,8 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. Sarah Arthur
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. My name is Sarah Arthur.
+2. I am a scientist. The tools and skills of Data Science will help me uncover compelling data in answering interesting and important questions.
+3. I took a class in programming back in 1994.
+4. I took a couple statistics classes in high school and college and used some chi square tests or other research type statistical tests in other classes and in research jobs for a few years. Since 1998 I have occasionally received and made decisions based on statistics produced by others, but have rarely been directly involved in data selection, collection, manipulation, etc.
+5. I do not have any experience with R or Python.
+6. I hope to achieve a base level competency in R and Python to use both and also build further competency with continued use.
+7. The more context, the better, for me. I have a difficult time learning unless I really understand a full connection between the thing I am supposed to learn and what kind of problem it will help me with later on.
