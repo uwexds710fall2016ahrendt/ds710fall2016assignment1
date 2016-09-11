@@ -1,8 +1,22 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
+
 1. What is your name?
+Jonathan Davis
+
 2. Why are you interested in Data Science?
+My interest in data science started over the last year as I wished to learn more about how I could improve the data-driven applications I work on in order to provide more insight and actionable feedback. I wished to learn more from a statistics perspective in order to supplement my coding background so I could benefit more from machine learning techniques and predictive analytics. These are some of the subjects and skills I am excited to learn more about from the data science program.
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I am originally from the state of Illinois and graduated from Illinois State University in 1997 with an undergraduate degree in business information systems. For the past 18 years, I have been working as a developer of data-driven applications ranging anywhere from healthcare reporting to application store business intelligence. The programming languages involved have mostly been .NET/C# and T-SQL (SQL Server) as well as HTML/JavaScript for UI. My current role is more of a development lead. So I probably spend less time coding than I would like as my role requires more focus on solutions architecture.
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+Very little statistical background which is one of the reasons I am interested in the program. Statistics are not something used on the job outside of typical averages. However, there are many opportunities to improve the work my team delivers by incorporating statistics which is one of my motivations for this program.
+
 5.  Do you have other experience with R or Python?
+No experience with Python. Very little experience with R - mostly from taking the Coursera class online plus some practical use at work (basic analysis plus using ggplot for visualizing results).
+
 6.  What do you hope to learn in this class?
+I hope to learn more about how Data Scientists view programming as well as what languages they use (as well as why they use those languages). This is also a prerequisite for the statistics class I plan to take next spring, so I hope to get a preview of what may be expanded on in that class.
+
 7.  Is there anything else you would like to share with us?
+I currently reside in the Seattle, Washington area which sometimes is a challenge for group projects given that I am 2 hours behind.
