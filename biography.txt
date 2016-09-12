@@ -1,8 +1,46 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
+
+1. What is your name? 
+
+My name is Nicholas Martel-Arquette
+
 2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+
+In the past several months, I've read about the subject of data science in various articles.  When I looked at the course materials in the University of Wisconsin Data Science program, all of the subjects were very interesting and were all topics that I wanted to learn more about.
+
+3. Tell us a little bit about your programming experience.  
+
+What programming courses have you taken?  
+
+I have taken programming classes (C#, PowerShell, t-SQL, MySQL, Ruby On Rails, .Net MVC, and Python) online on various websites (codecademy, plural sight, udemy) and by reading literature.
+
+Do you use programming on the job, and if so, how?
+
+I use t-sql on a daily basis in addition to Sql Server Integration Services.
+If I'm installing objects on different machines, I often rely on PowerShell to help run the objects in any environment that I need.
+
+4.  Tell us a little bit about your statistics experience.  
+
+What statistics courses have you taken?  
+
+I've taken statistics as a part of my undergraduate training in Economics in 2002.  
+It was recommended that I review material to get familiar with the subject again.  
+As a result, I'm taking an online class on statistics in Khan Academy.
+
+Do you use statistics on the job, and if so, how?
+
+Not at all.
+
 5.  Do you have other experience with R or Python?
+
+I took a Python tutorial on codecademy prior to enrolling to the program in May 2016.  The only exposure I've had with R was in a previous class (Data Science 700 Foundations).
+
 6.  What do you hope to learn in this class?
+
+I hope to learn more about python and determine how I can use it for Data Science and how it can be included into my current profession.
+
 7.  Is there anything else you would like to share with us?
+
+I'm a parent of two small children (age 5(boy) and age 4(girl)) and work fulltime in the Healthcare Industry Technology sector (not Epic).  
+I've been in the industry (Healthcare Information Technology) for over 10 years and want to take Data Science into the Healthcare Realm as I believe it is the next frontier for this market.
+Presently, I'm the product manager of a Reporting and Data warehouse solution for an Electronic Health Record.
