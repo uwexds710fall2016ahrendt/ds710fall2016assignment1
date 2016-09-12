@@ -1,8 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. Adam Storer
+2. I worked as a data analyst for three years before joining the finance department.  I learned the value of data and how important it can be to a business.  I have also learned how bad data can affect the bottom line of a business.  Data Science interests me because of the ability to turn raw data into information. This information can then be used by the business to make successful decisions.
+3. I have taken Java and Visual Basic classes while going for my undergrad.  I do use VBA in my professional life.
+4.  While attending UW Oshkosh, I took Economics and Business Statistics, and Quantitative Business Analysis.  I, unfortunately, I rarely use statistical analysis in my professional life.
+5.  I have completed the introduction and some intermediate courses on DataCamp for R and Python. 
+6.  My hope with Data Science is to develop better methods of obtaining data, analyzing data and communicating results, which will lead to better business decisions. I also want to gain a better knowledge of R and Python.
+7.  I am a huge fan of Major League Baseball.  It is very exciting to see how data science has changed it over the last seven years; the popularity of fantasy sports has increased, player management and value based on statistical analysis and the fan’s experience have all changed due to data science information.
