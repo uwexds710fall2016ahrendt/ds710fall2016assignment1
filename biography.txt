@@ -1,8 +1,23 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+Teng Vang
+
 2. Why are you interested in Data Science?
+I have a curious mind when it comes to data and I really enjoy finding insigth through big data. 
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I am a beginner programmer. I have taken Perl and Java in my previous Master program in Bioinformatics classes. I do not use programming at my current job. But this will change soon.
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I have taken the introductory Statistics in undergraduate and one graduate course statistic class in my prevoious master program in Bioinformatics. Yes, I used statistics a lot at my job.
+
 5.  Do you have other experience with R or Python?
+I recently completed the Foundation of data science course in this Master Data Science program. I also am learning python on my own using the "Learn Python the Hard Way" online tutorial. 
+
 6.  What do you hope to learn in this class?
+I hope to learn how to perform data analysis and data cleaning using python and R from this course.
+
 7.  Is there anything else you would like to share with us?
+I work as a scientist for a biotechnology company developing technology and platform new assays for testing viral contamination in biopharmaceutical products befor ethey are used in patients. 
+I graduated from the University of Wisconsin, Madison with a Bachelor of Science in Microbiology and a Master of science degree in Bioinformaitcs from the University of Marylan University College.
+I live in the Washington DC metropolitan area. 
