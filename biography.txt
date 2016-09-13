@@ -1,8 +1,0 @@
-Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. My name is Sarah Arthur.
-2. I am a scientist. The tools and skills of Data Science will help me uncover compelling data in answering interesting and important questions.
-3. I took a class in programming back in 1994.
-4. I took a couple statistics classes in high school and college and used some chi square tests or other research type statistical tests in other classes and in research jobs for a few years. Since 1998 I have occasionally received and made decisions based on statistics produced by others, but have rarely been directly involved in data selection, collection, manipulation, etc.
-5. I do not have any experience with R or Python.
-6. I hope to achieve a base level competency in R and Python to use both and also build further competency with continued use.
-7. The more context, the better, for me. The more I understand the whole picture or a decent line of reasoning the easier it is for me to study and learn.
