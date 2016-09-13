@@ -1,8 +1,15 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
+1. What is your name? 
+	A: Freddy Gaitan
+2. Why are you interested in Data Science? 
+	A: I enjoy analyzing data and would like to be a key contributor in the field.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+	A: I have taken some Java, SQL, Python, R. I currently do not use programming on the job. 
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+	A: I have taken online basic statistics courses. I do use statistics to forecast trends and the utilization of different applications
+5.  Do you have other experience with R or Python? 
+	A: I have use Python in the past but not an expert. My first intro to R was in another course
+6.  What do you hope to learn in this class? 
+	A: I hope to gain the skills to put to use as data scientists and continue to learn
+7.  Is there anything else you would like to share with us? 
+	A: I am excited about this class!!!!
